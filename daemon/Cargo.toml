@@ -18,7 +18,7 @@ rawtx-rs = "0.1.0"
 
 hex = "0.4"
 
-diesel = { version = "1.4.4", features = ["postgres", "r2d2", "chrono"] }
+diesel = { version = "2.2.3", features = ["postgres", "r2d2", "chrono"] }
 diesel_migrations = "1.4.0"
 chrono = { version = "0.4" }
 
